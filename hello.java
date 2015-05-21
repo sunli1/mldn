@@ -4,6 +4,7 @@ public class Hello{
 		System.out.println("kuai fang jia ba");
 		System.out.println("hao kun a ");
 		System.out.println("hao kun a ");
-		System.out.println("kuai fang jia ba");
+		System.out.println("hao kun a ");
+		System.out.println("Hello World!");
 	}
 }
