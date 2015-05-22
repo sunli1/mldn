@@ -8,6 +8,6 @@ public class Hello{
 					System.out.println("kuai fang jia ba");
 
 		System.out.println("kuai fang jia ba");
-
+System.out.println("kuai fang jia ?????????");
 	}
 }
